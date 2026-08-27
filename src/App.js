@@ -290,11 +290,9 @@ export default function MagnetCustomizerApp() {
       {/* HEADER BAR */}
       <header className="w-full border-b border-indigo-900/40 bg-[#090d20]/80 backdrop-blur-md px-8 py-4 flex justify-between items-center z-20">
         <div className="flex items-center gap-3">
-          <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-indigo-600 to-cyan-400 flex items-center justify-center font-bold text-black shadow-lg shadow-indigo-500/30">
-            🧲
-          </div>
+         
           <span className="font-extrabold text-lg tracking-wider bg-gradient-to-r from-white via-slate-200 to-indigo-300 bg-clip-text text-transparent">
-            MAGNET LAB 3D
+          NG INOVATION DEMO
           </span>
         </div>
 
